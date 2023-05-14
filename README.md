@@ -1,4 +1,4 @@
-<div style="display:flex"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" /><img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="30%" /></div>)
+<div style="display:flex"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" /><img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="30%" /></div>
 
 <h1 align="center">Hi 👋, I'm Suman(5h4kun1)</h1>
 <h3 align="center">Currently, I am a student who loves exploring new things👨‍💻🚝</h3>
