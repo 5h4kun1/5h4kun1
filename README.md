@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suman(5h4kun1)</h1>
 <h3 align="center">Currently, I am a student who loves exploring new things👨‍💻🚝</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5h4kun1" alt="5h4kun1" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/5h4kun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5h4kun1" height="30" width="40" /></a>
