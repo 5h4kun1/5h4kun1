@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Suman(5h4kun1)</h1>
 <h3 align="center">Currently, I am a student who loves exploring new things👨‍💻🚝</h3>
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/high/linux-system-logo-28q2azohfou6zw42.gif")>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/linux-system-logo-28q2azohfou6zw42.gif")>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/5h4kun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5h4kun1" height="30" width="40" /></a>
