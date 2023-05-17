@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suman(5h4kun1)</h1>
 <h3 align="center">Currently, I am a student who loves exploring new things👨‍💻🚝</h3>
 
-<img align="right" alt="Linux Logo" width="300" src="https://gifdb.com/images/high/linux-system-logo-28q2azohfou6zw42.gif">
+<img align="right" alt="Linux Logo" width="400" src="https://gifdb.com/images/high/linux-system-logo-28q2azohfou6zw42.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
