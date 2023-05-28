@@ -4,7 +4,7 @@
     width="30px" height="30px">,I'm Suman(5h4kun1)</h1>
 <h3 align="center">Currently, I am a student who loves exploring new things👨‍💻🚝</h3>
 
-<img align="right" alt="Linux Logo" width="400" src="https://gifdb.com/images/high/linux-system-logo-28q2azohfou6zw42.gif">
+<!--  <img align="right" alt="Linux Logo" width="400" src="https://gifdb.com/images/high/linux-system-logo-28q2azohfou6zw42.gif">  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h4kun1&show_icons=true&locale=en" alt="5h4kun1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5h4kun1&" alt="5h4kun1" /></p>
+
+p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5h4kun1&show_icons=true&locale=en&layout=compact" alt="5h4kun1" /></p>
 
 <!-- change it to make twitter visible -->
 
