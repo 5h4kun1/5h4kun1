@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5h4kun1&" alt="5h4kun1" /></p>
 
-p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5h4kun1&show_icons=true&locale=en&layout=compact" alt="5h4kun1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5h4kun1&show_icons=true&locale=en&layout=compact" alt="5h4kun1" /></p>
 
 <!-- change it to make twitter visible -->
 
