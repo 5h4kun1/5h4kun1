@@ -8,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=5h4kun1&label=Profile%20views&color=0e75b6&style=flat" alt="5h4kun1" /> </p>
   
   <!--hide  twiiter handle-->
 <!-- <a href="https://twitter.com/5h4kun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-        generator/master/src/images/icons/Social/twitter.svg" alt="5h4kun1" height="30" width="40" /></a>   -->
