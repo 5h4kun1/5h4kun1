@@ -13,7 +13,7 @@
   <!--hide  twiiter handle-->
 <!-- <a href="https://twitter.com/5h4kun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-        generator/master/src/images/icons/Social/twitter.svg" alt="5h4kun1" height="30" width="40" /></a>   -->
   
-<a href="https://instagram.com/suman724000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suman724000" height="30" width="40" /></a>
+<a href="https://instagram.com/suman.dsbsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suman.dsbsc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
